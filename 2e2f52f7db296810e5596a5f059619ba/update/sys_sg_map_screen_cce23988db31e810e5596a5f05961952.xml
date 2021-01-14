@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_map_screen">
+    <sys_sg_map_screen action="INSERT_OR_UPDATE">
+        <available_offline>true</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Paper-Plane">3bd2f548db31e810e5596a5f059619f9</icon>
+        <name>Minhas Atividades no Mapa</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_map_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 11:32:32</sys_created_on>
+        <sys_id>cce23988db31e810e5596a5f05961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minhas Atividades no Mapa</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_map_screen_cce23988db31e810e5596a5f05961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 11:32:32</sys_updated_on>
+    </sys_sg_map_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=cce23988db31e810e5596a5f05961952"/>
+</record_update>

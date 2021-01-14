@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Minhas Atividades no Mapa Item Stream">c4e23988db31e810e5596a5f05961956</item_stream>
+        <segment display_value="Item Stream Segment">e8e23988db31e810e5596a5f059619b6</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 11:32:35</sys_created_on>
+        <sys_id>78e23988db31e810e5596a5f059619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_78e23988db31e810e5596a5f059619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 11:32:35</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

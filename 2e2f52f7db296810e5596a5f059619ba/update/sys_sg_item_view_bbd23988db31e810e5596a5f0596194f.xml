@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>u_estagio-43045,number-3907,short_description-22124,location-3092</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17,"Right":16,"Left":16},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","BackgroundColor":"#ffffff","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","CornerRadius":2,"Height":30,"Margin":{},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Equal","Children":[{"Type":"Text","Margin":{"Left":0,"Right":8,"Top":3,"Bottom":3},"TextColor":"#333e3f","TextAlignment":"center","BackgroundColor":"#f1f1f1","Height":30,"Width":100,"MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"","CellId":"u_estagio","studio_template_field_id":"E1","Id":43045}],"Id":3484}],"Id":42845},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","Text":"","CellId":"number","studio_template_field_id":"E2","TextColor":"#637274","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":12},"CellId":"short_description","studio_template_field_id":"E3","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":16},"Id":22124},{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_ignore":true,"Text":"","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":20,"Name":"now-mobile-icons-cards"},"Id":3091},{"Type":"Text","Margin":{"Left":13},"CellId":"location","studio_template_field_id":"E4","TextColor":"#637274","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3092}],"Id":34348}],"Id":12261}],"studio_card_id":"0fa08ce37330230039634c5353f6a725","Id":28090}</item_view_json>
+        <name>Minhas Atividades no Mapa Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 11:32:31</sys_created_on>
+        <sys_id>bbd23988db31e810e5596a5f0596194f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minhas Atividades no Mapa Item View</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_item_view_bbd23988db31e810e5596a5f0596194f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 11:32:31</sys_updated_on>
+        <table>x_snc_app1_solicitacoes</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbd23988db31e810e5596a5f0596194f"/>
+</record_update>

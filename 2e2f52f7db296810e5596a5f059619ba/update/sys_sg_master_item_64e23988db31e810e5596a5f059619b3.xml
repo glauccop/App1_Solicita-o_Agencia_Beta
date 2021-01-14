@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_app1_solicitacoes</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Minhas Atividades no Mapa">14e23988db31e810e5596a5f0596196b</embedded_screen>
+        <item_view display_value="Minhas Atividades no Mapa Item View">bbd23988db31e810e5596a5f0596194f</item_view>
+        <name>Minhas Atividades no Mapa Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-14 11:32:34</sys_created_on>
+        <sys_id>64e23988db31e810e5596a5f059619b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Minhas Atividades no Mapa Master Item</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_master_item_64e23988db31e810e5596a5f059619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-14 11:32:34</sys_updated_on>
+    </sys_sg_master_item>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2021-01-14 11:44:41</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 11:44:41</sys_created_on>
+        <sys_id>4ea53dccdb31e810e5596a5f05961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8DB1CC01F35ABDB62165BAE98CF75F9D5DDC52DF9EC586F09D73E7B1858DF5A3</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_4ea53dccdb31e810e5596a5f05961907</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 11:44:41</sys_updated_on>
+        <sys_user_id display_value="Glaucco Morais">e3762110db039490e5596a5f05961999</sys_user_id>
+        <token>8DB1CC01F35ABDB62165BAE98CF75F9D5DDC52DF9EC586F09D73E7B1858DF5A3</token>
+    </sys_push_notif_app_install>
+</record_update>
