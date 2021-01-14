@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Gestão das Solicitações do Usuários em Agência</description>
+        <device_type>browser</device_type>
+        <hint>Gestão das Solicitações do Usuários em Agência</hint>
+        <name/>
+        <order>1</order>
+        <roles>x_snc_app1.admin,x_snc_app1.usuario,x_snc_app1.atendente,x_snc_app1.gestor</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-13 20:14:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2cc0ae7bdb296810e5596a5f05961908</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Solicitação de Agências</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_app_application_2cc0ae7bdb296810e5596a5f05961908</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 05:57:16</sys_updated_on>
+        <title>Solicitação de Agências</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

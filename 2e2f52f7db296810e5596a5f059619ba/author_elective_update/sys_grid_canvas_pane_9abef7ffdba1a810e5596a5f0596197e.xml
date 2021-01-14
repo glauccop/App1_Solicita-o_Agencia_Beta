@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Solicitações Ativas - New Tab">f9c63773dba1a810e5596a5f05961901</grid_canvas>
+        <height>23</height>
+        <portal_widget display_value="Created 14/01/2021 00:05:03">5ebef7ffdba1a810e5596a5f0596197c</portal_widget>
+        <posx>4</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 03:05:04</sys_created_on>
+        <sys_id>9abef7ffdba1a810e5596a5f0596197e</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>f9c63773dba1a810e5596a5f05961901</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_9abef7ffdba1a810e5596a5f0596197e</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 03:08:36</sys_updated_on>
+        <width>8</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</application>
+        <file_path/>
+        <instance_id>98bd2529dbbfb3444d2bac44d49619f2</instance_id>
+        <instance_name>nowdemo</instance_name>
+        <name>sys_grid_canvas_pane_9abef7ffdba1a810e5596a5f0596197e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Solicitações Ativas - New Tab">f9c63773dba1a810e5596a5f05961901</grid_canvas><height>23</height><portal_widget display_value="Created 14/01/2021 00:05:03">5ebef7ffdba1a810e5596a5f0596197c</portal_widget><posx>4</posx><posy>0</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>glaucco</sys_created_by><sys_created_on>2021-01-14 03:05:04</sys_created_on><sys_id>9abef7ffdba1a810e5596a5f0596197e</sys_id><sys_mod_count>8</sys_mod_count><sys_name>f9c63773dba1a810e5596a5f05961901</sys_name><sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package><sys_policy/><sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope><sys_update_name>sys_grid_canvas_pane_9abef7ffdba1a810e5596a5f0596197e</sys_update_name><sys_updated_by>glaucco</sys_updated_by><sys_updated_on>2021-01-14 03:08:36</sys_updated_on><width>8</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>349341128</payload_hash>
+        <record_name>f9c63773dba1a810e5596a5f05961901</record_name>
+        <reverted_from/>
+        <source>662f52f7db296810e5596a5f059619bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 03:08:36</sys_created_on>
+        <sys_id>da8f3773dbe1a810e5596a5f059619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176feddc8a30000001</sys_recorded_at>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 03:08:36</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>928f377351e1a810271b4faf0cae5cd0</update_guid>
+        <update_guid_history>928f377351e1a810271b4faf0cae5cd0:349341128,6e4ffb3339e1a810c0c5db620339ddf1:21820388,fb3ffb3309e1a8105bafe59163fd8761:1197659367,2cdebfff50a1a810929dac0a0ba2b9cf:-269406716,4cdebfff68a1a8102b6b61f2af3b830e:-1468910426,13ce7fff58a1a8103bbe6b74c6006ad0:-12591192,3cce7fff26a1a810776e82e616db581a:-269406716,08ce3fff9da1a8100a2900a7067d19d1:-1871270144,52bef7ff17a1a810ff2fb4356c276e80:-1188588923</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 03:10:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>29417bec64c448008be8dcbad7216981</sys_id>
+        <sys_metadata>9abef7ffdba1a810e5596a5f0596197e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f9c63773dba1a810e5596a5f05961901</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_scope_delete display_value="">54b8ede27f874e58a844c26090c49b10</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_9abef7ffdba1a810e5596a5f0596197e</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_9abef7ffdba1a810e5596a5f0596197e">da8f3773dbe1a810e5596a5f059619d0</sys_update_version>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 03:10:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

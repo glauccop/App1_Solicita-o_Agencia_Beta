@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="1e1b7ef7dbe96810e5596a5f05961914" sys_domain="global" table="u_imp_tmpl_cmn_location" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>961b7ef7dbe96810e5596a5f05961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_company</element>
+            <position>1</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1e1b7ef7dbe96810e5596a5f05961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_account</element>
+            <position>2</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9e1b7ef7dbe96810e5596a5f05961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_parent</element>
+            <position>3</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>121b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_country</element>
+            <position>4</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>921b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_longitude</element>
+            <position>5</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>161b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_primary</element>
+            <position>6</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>961b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_time_zone</element>
+            <position>7</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1a1b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9a1b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_agencia_ativa</element>
+            <position>9</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1e1b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_coordinates_retrieved_on</element>
+            <position>10</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9e1b7ef7dbe96810e5596a5f05961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_latitude</element>
+            <position>11</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>121b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone</element>
+            <position>12</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>921b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stock_room</element>
+            <position>13</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>161b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_consumer</element>
+            <position>14</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>961b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fax_phone</element>
+            <position>15</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1a1b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>16</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9a1b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_name</element>
+            <position>17</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1e1b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>18</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9e1b7ef7dbe96810e5596a5f05961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_source</element>
+            <position>19</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>121b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_zip___postal_code</element>
+            <position>20</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>921b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>21</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>161b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_city</element>
+            <position>22</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>961b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>23</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1a1b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_correlation_id</element>
+            <position>24</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9a1b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lat_long_error</element>
+            <position>25</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1e1b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_phone_territory</element>
+            <position>26</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9e1b7ef7dbe96810e5596a5f05961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_street</element>
+            <position>27</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>121b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_contact</element>
+            <position>28</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>921b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_full_name</element>
+            <position>29</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>161b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>30</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>961b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_state___province</element>
+            <position>31</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1a1b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>32</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9a1b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_agência</element>
+            <position>33</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>1e1b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>34</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>9e1b7ef7dbe96810e5596a5f0596191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_import_log.message</element>
+            <position>35</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_id>121b7ef7dbe96810e5596a5f0596191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_imp_tmpl_cmn_location" sys_domain="global" view="Default view">1e1b7ef7dbe96810e5596a5f05961914</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_imp_tmpl_cmn_location</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 22:09:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1e1b7ef7dbe96810e5596a5f05961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_imp_tmpl_cmn_location</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+            <sys_update_name>sys_ui_section_1e1b7ef7dbe96810e5596a5f05961914</sys_update_name>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 22:09:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Solicitação de Agências">1670267bdb296810e5596a5f059619da</applet_launcher>
+        <icon display_value="Home Solicitação de Agências">5e70267bdb296810e5596a5f059619db</icon>
+        <label>Solicitação de Agências</label>
+        <roles>x_snc_app1.admin,x_snc_app1.usuario,x_snc_app1.atendente,x_snc_app1.gestor</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-13 20:13:16</sys_created_on>
+        <sys_id>1e70267bdb296810e5596a5f059619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Agências</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_1e70267bdb296810e5596a5f059619db</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-13 20:13:16</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

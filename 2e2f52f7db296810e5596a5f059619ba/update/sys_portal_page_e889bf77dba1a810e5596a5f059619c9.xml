@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-14 11:11:54">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 02:42:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e889bf77dba1a810e5596a5f059619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA KANBAN - Atividades</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_portal_page_e889bf77dba1a810e5596a5f059619c9</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 02:42:35</sys_updated_on>
+        <title>PA KANBAN - Atividades</title>
+        <user/>
+        <view>pa_solicitações_ativas_-_new_tab_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA KANBAN - Atividades">e889bf77dba1a810e5596a5f059619c9</page>
+                <summary>VTB - Solicitações</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 03:02:41</sys_created_on>
+                <sys_id>2f2e7bbfdba1a810e5596a5f059619c1</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 03:03:15</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 14/01/2021 00:02:41">2f2e7bbfdba1a810e5596a5f059619c1</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:02:41</sys_created_on>
+                        <sys_id>232e7bbfdba1a810e5596a5f059619c3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:03:15</sys_updated_on>
+                        <value>VTB - Solicitações</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 14/01/2021 00:02:41">2f2e7bbfdba1a810e5596a5f059619c1</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:02:42</sys_created_on>
+                        <sys_id>2f2e7bbfdba1a810e5596a5f059619c3</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:03:15</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 14/01/2021 00:02:41">2f2e7bbfdba1a810e5596a5f059619c1</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:02:41</sys_created_on>
+                        <sys_id>6f2e7bbfdba1a810e5596a5f059619c2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:02:41</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 14/01/2021 00:02:41">2f2e7bbfdba1a810e5596a5f059619c1</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:02:41</sys_created_on>
+                        <sys_id>a32e7bbfdba1a810e5596a5f059619c2</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:03:15</sys_updated_on>
+                        <value>a83ebbbfdba1a810e5596a5f05961960</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>agência</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-13 22:18:52</sys_created_on>
+        <sys_id>c23d7afbdbe96810e5596a5f05961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agência</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_ui_view_c23d7afbdbe96810e5596a5f05961972</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-13 22:18:52</sys_updated_on>
+        <title>Agência</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-14 11:11:49">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 02:44:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57f977b7dba1a810e5596a5f0596193f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Agendamentos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_portal_page_57f977b7dba1a810e5596a5f0596193f</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 02:44:34</sys_updated_on>
+        <title>PA Agendamentos</title>
+        <user/>
+        <view>pa_solicitações_ativas_-_new_tab_3</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Agendamentos">57f977b7dba1a810e5596a5f0596193f</page>
+                <summary>Agendamento Previsto</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                <sys_id>6d3ab3f7dba1a810e5596a5f05961916</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>213ab7f7dba1a810e5596a5f05961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>calendar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>253ab3f7dba1a810e5596a5f05961917</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>a93ab3f7dba1a810e5596a5f05961917</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>e13ab7f7dba1a810e5596a5f05961939</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>Agendamento Previsto</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>e53ab3f7dba1a810e5596a5f05961917</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:21">6d3ab3f7dba1a810e5596a5f05961916</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:21</sys_created_on>
+                        <sys_id>ed3ab3f7dba1a810e5596a5f05961916</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:21</sys_updated_on>
+                        <value>5a04f33fdb61a810e5596a5f0596195e</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Agendamentos">57f977b7dba1a810e5596a5f0596193f</page>
+                <summary>SLA Ativos Lista</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                <sys_id>794af7f7dba1a810e5596a5f0596190f</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>314af7f7dba1a810e5596a5f05961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>3d4af7f7dba1a810e5596a5f05961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>SLA Ativos Lista</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>794af7f7dba1a810e5596a5f05961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>b54af7f7dba1a810e5596a5f05961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>f14af7f7dba1a810e5596a5f05961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:45:38">794af7f7dba1a810e5596a5f0596190f</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:45:38</sys_created_on>
+                        <sys_id>f94af7f7dba1a810e5596a5f0596190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:45:38</sys_updated_on>
+                        <value>d2163fffdb61a810e5596a5f05961958</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

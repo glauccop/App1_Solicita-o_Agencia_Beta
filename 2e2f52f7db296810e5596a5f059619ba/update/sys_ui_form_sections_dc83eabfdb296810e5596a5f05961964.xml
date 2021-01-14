@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="dc83eabfdb296810e5596a5f05961964" sys_domain="global" table="x_snc_app1_solicitacoes" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 21:29:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ee1f63bdba96810e5596a5f0596199a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_app1_solicitacoes" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">dc83eabfdb296810e5596a5f05961964</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">b5e1f63bdba96810e5596a5f05961953</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 21:29:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 21:24:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>15b0f2b7dba96810e5596a5f059619f0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_app1_solicitacoes" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">dc83eabfdb296810e5596a5f05961964</sys_ui_form>
+            <sys_ui_section caption="Informações" display_value="Informações" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">8db0f2b7dba96810e5596a5f059619ec</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 21:24:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 21:14:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9ea2b3dba96810e5596a5f0596199a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_app1_solicitacoes" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">dc83eabfdb296810e5596a5f05961964</sys_ui_form>
+            <sys_ui_section caption="Colaboração" display_value="Colaboração" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">378ea2b3dba96810e5596a5f05961949</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 21:24:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 01:51:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73fda7b3db61a810e5596a5f05961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_app1_solicitacoes" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">dc83eabfdb296810e5596a5f05961964</sys_ui_form>
+            <sys_ui_section caption="Agendamento" display_value="Agendamento" name="x_snc_app1_solicitacoes" sys_domain="global" view="Default view">b7fda7b3db61a810e5596a5f0596192d</sys_ui_section>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 01:51:58</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_app1_solicitacoes</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:26:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc83eabfdb296810e5596a5f05961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_app1_solicitacoes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dc83eabfdb296810e5596a5f05961964</sys_update_name>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:26:31</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

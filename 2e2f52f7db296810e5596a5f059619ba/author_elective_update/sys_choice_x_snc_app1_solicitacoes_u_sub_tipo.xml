@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_sub_tipo" table="x_snc_app1_solicitacoes" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_sub_tipo</element>
+            <name>x_snc_app1_solicitacoes</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:42:13</sys_created_on>
+            <sys_id>5a176e37db696810e5596a5f05961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_sub_tipo</sys_name>
+            <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+            <sys_update_name>sys_choice_x_snc_app1_solicitacoes_u_sub_tipo</sys_update_name>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:42:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Autenticação</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:43:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a47e237db696810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:43:03</sys_updated_on>
+            <value>Autenticação</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dúvidas</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:44:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4b72a77db696810e5596a5f05961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:44:50</sys_updated_on>
+            <value>Dúvidas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Equipamento</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:42:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de176e37db696810e5596a5f05961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:42:13</sys_updated_on>
+            <value>Equipamento</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>3</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ajuda</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:44:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>24b72e77db696810e5596a5f059619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:44:50</sys_updated_on>
+            <value>Ajuda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>2</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>App1</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:43:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e647a277db696810e5596a5f05961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:43:03</sys_updated_on>
+            <value>App1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>1</dependent_value>
+            <element>u_sub_tipo</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Eletricidade</label>
+            <language>en</language>
+            <name>x_snc_app1_solicitacoes</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 20:42:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12176e37db696810e5596a5f05961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 20:42:13</sys_updated_on>
+            <value>Eletricidade</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#f1c40f</color>
+        <color_id display_value="Agile - Sun Flower">fd5925d9dbc103009c7d361b7c961967</color_id>
+        <operator>between</operator>
+        <order>2</order>
+        <report_id display_value="Solicitações Ativa - Lista">1a2dab33db61a810e5596a5f0596196c</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 01:48:21</sys_created_on>
+        <sys_id>ea2d2f33db61a810e5596a5f05961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>between</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_ea2d2f33db61a810e5596a5f05961913</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 01:48:21</sys_updated_on>
+        <value1>5</value1>
+        <value2>7</value2>
+    </sys_report_mpivot_rule>
+</record_update>

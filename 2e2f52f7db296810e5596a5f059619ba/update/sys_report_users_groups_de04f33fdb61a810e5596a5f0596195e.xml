@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Agendamento Previsto">5a04f33fdb61a810e5596a5f0596195e</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 02:18:22</sys_created_on>
+        <sys_id>de04f33fdb61a810e5596a5f0596195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5a04f33fdb61a810e5596a5f0596195e</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_report_users_groups_de04f33fdb61a810e5596a5f0596195e</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 02:18:22</sys_updated_on>
+        <user_id display_value="Glaucco Morais">e3762110db039490e5596a5f05961999</user_id>
+    </sys_report_users_groups>
+</record_update>

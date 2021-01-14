@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true" label="Location" max_length="40" name="cmn_location" sizeclass="475" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Agência" max_length="40" name="x_snc_app1_u_agencia" type="string"/>
+        <element label="Agencia Ativa" max_length="40" name="x_snc_app1_u_agencia_ativa" type="boolean"/>
+    </element>
+</database>

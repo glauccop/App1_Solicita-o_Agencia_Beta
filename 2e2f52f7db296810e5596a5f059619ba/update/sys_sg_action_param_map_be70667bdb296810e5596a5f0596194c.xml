@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Solicitações)">6270667bdb296810e5596a5f0596191a</button>
+        <item_parameter display_value="Solicitações short_description">aa70667bdb296810e5596a5f0596190f</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-13 20:13:18</sys_created_on>
+        <sys_id>be70667bdb296810e5596a5f0596194c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aa70667bdb296810e5596a5f0596190f</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_be70667bdb296810e5596a5f0596194c</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-13 20:13:18</sys_updated_on>
+        <ui_parameter display_value="Short description">7a70667bdb296810e5596a5f0596191e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

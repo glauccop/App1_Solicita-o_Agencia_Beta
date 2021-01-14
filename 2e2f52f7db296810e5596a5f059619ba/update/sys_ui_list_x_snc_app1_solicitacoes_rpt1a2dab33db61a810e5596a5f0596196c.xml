@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_app1_solicitacoes" version="2" view="RPT1a2dab33db61a810e5596a5f0596196c">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>c384ac48dbf5a810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>4b84ac48dbf5a810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_by</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>cb84ac48dbf5a810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_estagio</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>4f84ac48dbf5a810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>cf84ac48dbf5a810e5596a5f059619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_tipo</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>4384ac48dbf5a810e5596a5f059619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_sub_tipo</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>c384ac48dbf5a810e5596a5f059619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="x_snc_app1_solicitacoes" element="NULL" name="x_snc_app1_solicitacoes" parent="NULL" relationship="NULL" sys_domain="global" view="262d2f33db61a810e5596a5f0596190c">8384ac48dbf5a810e5596a5f059619d1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_id>4784ac48dbf5a810e5596a5f059619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_app1_solicitacoes</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-14 05:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8384ac48dbf5a810e5596a5f059619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_app1_solicitacoes</sys_name>
+            <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_app1_solicitacoes_RPT1a2dab33db61a810e5596a5f0596196c</sys_update_name>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-14 05:50:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt1a2dab33db61a810e5596a5f0596196c" name="RPT1a2dab33db61a810e5596a5f0596196c">262d2f33db61a810e5596a5f0596190c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

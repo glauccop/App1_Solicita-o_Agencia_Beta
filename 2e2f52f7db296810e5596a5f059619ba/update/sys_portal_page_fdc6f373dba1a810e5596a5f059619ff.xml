@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-01-14 11:11:55">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-14 02:30:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fdc6f373dba1a810e5596a5f059619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Solicitações Ativas - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>sys_portal_page_fdc6f373dba1a810e5596a5f059619ff</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 02:30:20</sys_updated_on>
+        <title>PA Solicitações Ativas - New Tab</title>
+        <user/>
+        <view>pa_solicitações_ativas_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>Solicitações Ativa - Lista</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                <sys_id>19e6f773dba1a810e5596a5f05961945</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>19e6f773dba1a810e5596a5f05961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>55e6f773dba1a810e5596a5f05961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>91e6f773dba1a810e5596a5f05961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>99e6f773dba1a810e5596a5f05961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>1a2dab33db61a810e5596a5f0596196c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>d9e6f773dba1a810e5596a5f05961946</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>Solicitações Ativa - Lista</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:51">19e6f773dba1a810e5596a5f05961945</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:51</sys_created_on>
+                        <sys_id>dde6f773dba1a810e5596a5f05961945</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:51</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>Solicitações Ativa</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                <sys_id>4be67b73dba1a810e5596a5f0596193d</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>03e67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>07e67b73dba1a810e5596a5f0596193f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>0fe67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>4be67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_real_time</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>87e67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>c3e67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>cbe67b73dba1a810e5596a5f0596193d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>526c27ffdb21a810e5596a5f05961927</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:30:58">4be67b73dba1a810e5596a5f0596193d</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:30:58</sys_created_on>
+                        <sys_id>cfe67b73dba1a810e5596a5f0596193e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:30:58</sys_updated_on>
+                        <value>Solicitações Ativa</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>Estágio</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                <sys_id>7c69bb77dba1a810e5596a5f059619f5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>3069bb77dba1a810e5596a5f059619f7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>Estágio</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>3469bb77dba1a810e5596a5f059619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>7c69bb77dba1a810e5596a5f059619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>b869bb77dba1a810e5596a5f059619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>f469bb77dba1a810e5596a5f059619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:44">7c69bb77dba1a810e5596a5f059619f5</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:44</sys_created_on>
+                        <sys_id>fc69bb77dba1a810e5596a5f059619f5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:44</sys_updated_on>
+                        <value>9eb8b737dba1a810e5596a5f059619d1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>Mapa - Solicitações</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 03:15:31</sys_created_on>
+                <sys_id>af118404dbf1a810e5596a5f05961931</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 03:17:40</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 14/01/2021 00:15:31">af118404dbf1a810e5596a5f05961931</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:15:31</sys_created_on>
+                        <sys_id>23118404dbf1a810e5596a5f05961932</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:17:40</sys_updated_on>
+                        <value>2a210804dbf1a810e5596a5f059619d6</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 14/01/2021 00:15:31">af118404dbf1a810e5596a5f05961931</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:15:31</sys_created_on>
+                        <sys_id>2b118404dbf1a810e5596a5f05961932</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:17:40</sys_updated_on>
+                        <value>Mapa - Solicitações</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 14/01/2021 00:15:31">af118404dbf1a810e5596a5f05961931</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:15:31</sys_created_on>
+                        <sys_id>67118404dbf1a810e5596a5f05961932</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:15:31</sys_updated_on>
+                        <value>com.glide.cms.RenderBlock</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 14/01/2021 00:15:31">af118404dbf1a810e5596a5f05961931</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 03:15:31</sys_created_on>
+                        <sys_id>6f118404dbf1a810e5596a5f05961932</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 03:17:40</sys_updated_on>
+                        <value>content_block_iframe</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>Tipo de Solicitção</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                <sys_id>c3597f77dba1a810e5596a5f0596199e</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>03597f77dba1a810e5596a5f0596199f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>47597f77dba1a810e5596a5f0596199e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>07e87f37dba1a810e5596a5f0596193c</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>4f597f77dba1a810e5596a5f0596199e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>87597f77dba1a810e5596a5f0596199f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>Tipo de Solicitção</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>8b597f77dba1a810e5596a5f0596199e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:38">c3597f77dba1a810e5596a5f0596199e</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:38</sys_created_on>
+                        <sys_id>c3597f77dba1a810e5596a5f0596199f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:38</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Solicitações Ativas - New Tab">fdc6f373dba1a810e5596a5f059619ff</page>
+                <summary>SubTipo - Solicitação</summary>
+                <sys_created_by>glaucco</sys_created_by>
+                <sys_created_on>2021-01-14 02:41:32</sys_created_on>
+                <sys_id>f959fb77dba1a810e5596a5f05961982</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>glaucco</sys_updated_by>
+                <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:33</sys_created_on>
+                        <sys_id>3959fb77dba1a810e5596a5f05961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                        <value>SubTipo - Solicitação</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:33</sys_created_on>
+                        <sys_id>3d59fb77dba1a810e5596a5f05961983</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:32</sys_created_on>
+                        <sys_id>7159fb77dba1a810e5596a5f05961983</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:32</sys_updated_on>
+                        <value>b8393b77dba1a810e5596a5f0596193f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:33</sys_created_on>
+                        <sys_id>7559fb77dba1a810e5596a5f05961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:33</sys_created_on>
+                        <sys_id>b159fb77dba1a810e5596a5f05961984</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 13/01/2021 23:41:32">f959fb77dba1a810e5596a5f05961982</portal_section>
+                        <sys_created_by>glaucco</sys_created_by>
+                        <sys_created_on>2021-01-14 02:41:33</sys_created_on>
+                        <sys_id>fd59fb77dba1a810e5596a5f05961983</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>glaucco</sys_updated_by>
+                        <sys_updated_on>2021-01-14 02:41:33</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

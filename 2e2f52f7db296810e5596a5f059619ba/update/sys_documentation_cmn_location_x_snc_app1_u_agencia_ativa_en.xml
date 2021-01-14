@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_app1_u_agencia_ativa" label="Agencia Ativa" language="en" table="cmn_location">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_app1_u_agencia_ativa</element>
+            <help/>
+            <hint/>
+            <label>Agencia Ativa</label>
+            <language>en</language>
+            <name>cmn_location</name>
+            <plural>Agencia Ativas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>glaucco</sys_created_by>
+            <sys_created_on>2021-01-13 21:00:06</sys_created_on>
+            <sys_id>5c3beefbdb696810e5596a5f0596195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Agencia Ativa</sys_name>
+            <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+            <sys_update_name>sys_documentation_cmn_location_x_snc_app1_u_agencia_ativa_en</sys_update_name>
+            <sys_updated_by>glaucco</sys_updated_by>
+            <sys_updated_on>2021-01-13 21:00:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

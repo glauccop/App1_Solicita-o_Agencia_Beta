@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl Cmn Location" max_length="40" name="u_imp_tmpl_cmn_location" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Account" label="Account" max_length="32" name="u_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Agência" max_length="40" name="u_agência" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Agencia Ativa" label="Agencia Ativa" max_length="40" name="u_agencia_ativa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="32" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Consumer" label="Consumer" max_length="32" name="u_consumer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact" label="Contact" max_length="32" name="u_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Coordinates retrieved on" label="Coordinates retrieved on" max_length="40" name="u_coordinates_retrieved_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Correlation ID" label="Correlation ID" max_length="100" name="u_correlation_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fax phone" label="Fax phone" max_length="40" name="u_fax_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Full name" label="Full name" max_length="255" name="u_full_name" type="string"/>
+        <element attributes="import_attribute_name=Latitude" label="Latitude" max_length="40" name="u_latitude" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Lat long error" label="Lat long error" max_length="1000" name="u_lat_long_error" type="string"/>
+        <element attributes="import_attribute_name=Longitude" label="Longitude" max_length="40" name="u_longitude" type="float"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="100" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent" label="Parent" max_length="32" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone territory" label="Phone territory" max_length="32" name="u_phone_territory" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Primary" label="Primary" max_length="40" name="u_primary" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source" label="Source" max_length="32" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State / Province" label="State / Province" max_length="40" name="u_state___province" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stock room" label="Stock room" max_length="40" name="u_stock_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Street" label="Street" max_length="255" name="u_street" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Time zone" label="Time zone" max_length="40" name="u_time_zone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Zip / Postal Code" label="Zip / Postal Code" max_length="40" name="u_zip___postal_code" type="string"/>
+    </element>
+</database>

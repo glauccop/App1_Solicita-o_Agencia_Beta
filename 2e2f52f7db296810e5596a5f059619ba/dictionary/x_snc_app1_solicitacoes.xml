@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Solicitações" max_length="40" name="x_snc_app1_solicitacoes" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Término Previso" max_length="40" name="u_agendamento_end" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Inicio Previsto" max_length="40" name="u_agendamento_start" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="1" label="Estágio" max_length="40" name="u_estagio" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Novo" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Em Análise" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Em Execução" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Em Aprovação" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Concluido" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="u_tipo" dependent_on_field="u_tipo" label="SubTipo" max_length="40" name="u_sub_tipo" type="string" use_dependent_field="true">
+            <choice>
+                <element dependent_value="2" inactive_on_update="false" label="Autenticação" sequence="0" value="Autenticação"/>
+                <element dependent_value="3" inactive_on_update="false" label="Dúvidas" sequence="0" value="Dúvidas"/>
+                <element dependent_value="1" inactive_on_update="false" label="Equipamento" sequence="0" value="Equipamento"/>
+                <element dependent_value="3" inactive_on_update="false" label="Ajuda" sequence="1" value="Ajuda"/>
+                <element dependent_value="2" inactive_on_update="false" label="App1" sequence="1" value="App1"/>
+                <element dependent_value="1" inactive_on_update="false" label="Eletricidade" sequence="1" value="Eletricidade"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1" label="Tipo de Solicitação" max_length="40" name="u_tipo" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Infraestrutura" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Acesso a Sistemas" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Orientação" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Término Planejado" max_length="40" name="u_work_end" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Inicio Planejado" max_length="40" name="u_work_start" type="glide_date_time"/>
+    </element>
+</database>

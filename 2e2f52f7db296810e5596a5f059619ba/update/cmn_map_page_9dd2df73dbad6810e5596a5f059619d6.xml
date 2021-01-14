@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cmn_map_page">
+    <cmn_map_page action="INSERT_OR_UPDATE">
+        <center_address>Brazil</center_address>
+        <center_latitude>-14.235004</center_latitude>
+        <center_longitude>-51.92528</center_longitude>
+        <controls_size>large</controls_size>
+        <coordinates_retrieved_on/>
+        <disable_map_controls/>
+        <disable_nav_bar>false</disable_nav_bar>
+        <filter/>
+        <initial_zoom>5</initial_zoom>
+        <name>x_snc_app1_MapaAgencias</name>
+        <overview>true</overview>
+        <refresh_on_zoom>true</refresh_on_zoom>
+        <roles/>
+        <script><![CDATA[var queryString = "active=true^locationISNOTEMPTY"; 
+var gr = new GlideRecord("x_snc_app1_solicitacoes");
+gr.addEncodedQuery(queryString);
+gr.addActiveQuery();
+gr.query();
+while (gr.next()) {
+   var item = map.addItem(gr);
+       item.latitude = gr.location.latitude ;
+	   item.longitude = gr.location.longitude ; 
+  // item.latitude = gr.getValue('location.latitude');
+  // item.longitude = gr.getValue('location.longitude');
+      item.dialog_title = gr.getDisplayValue();
+      item.icon_width = "16";
+      item.icon_height = "16";
+}]]></script>
+        <show_device_location>false</show_device_location>
+        <suffix>MapaAgencias</suffix>
+        <sys_class_name>cmn_map_page</sys_class_name>
+        <sys_created_by>glaucco</sys_created_by>
+        <sys_created_on>2021-01-13 23:55:25</sys_created_on>
+        <sys_id>9dd2df73dbad6810e5596a5f059619d6</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>x_snc_app1_MapaAgencias</sys_name>
+        <sys_package display_value="Solicitação de Agências" source="x_snc_app1">2e2f52f7db296810e5596a5f059619ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Agências">2e2f52f7db296810e5596a5f059619ba</sys_scope>
+        <sys_update_name>cmn_map_page_9dd2df73dbad6810e5596a5f059619d6</sys_update_name>
+        <sys_updated_by>glaucco</sys_updated_by>
+        <sys_updated_on>2021-01-14 03:12:10</sys_updated_on>
+        <type>normal</type>
+        <type_selection>buttons</type_selection>
+        <use_advanced_configuration>false</use_advanced_configuration>
+    </cmn_map_page>
+</record_update>
